@@ -157,13 +157,37 @@ justify-content: start;
 }
 /**  Mobile screen sizes */
 @media screen and (max-width:480px) and (min-width:320px) {
-  
- 
+  body {
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background: url(./images/bg-pattern-bottom-mobile.svg),
+      url(./images/bg-pattern-top-mobile.svg), var(--neutral3);
+    background-repeat: no-repeat, no-repeat;
+    background-size: 70%, 50%;
+    background-position: 200px 118px, 100px 0px;
+  }
+  .intro h1{
+    font-size: 1.9rem;
+   }
 }
 /** Tablets screen sizes */
 @media screen and (max-width:768px) and (min-width: 481px) {
+  
+body {
+  font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background: url(./images/bg-pattern-bottom-mobile.svg),
+    url(./images/bg-pattern-top-mobile.svg), var(--neutral3);
+  background-repeat: no-repeat, no-repeat;
+  background-size: 70%, 50%;
+  background-position: 600px 198px, 80px 0px;
+}
+  
   .intro h1{
-    font-size: 1.88rem;
+    font-size: 2rem;
+    font-weight: 700;
    }
 }
 /** Small screens, laptops screen sizes  */
