@@ -164,8 +164,8 @@ justify-content: start;
     background: url(./images/bg-pattern-bottom-mobile.svg),
       url(./images/bg-pattern-top-mobile.svg), var(--neutral3);
     background-repeat: no-repeat, no-repeat;
-    background-size: 70%, 50%;
-    background-position: 200px 118px, 100px 0px;
+    background-size: 200%, 70%;
+    background-position: 72px 700px, 0px 0px;
   }
   .intro h1{
     font-size: 1.9rem;
@@ -181,8 +181,8 @@ body {
   background: url(./images/bg-pattern-bottom-mobile.svg),
     url(./images/bg-pattern-top-mobile.svg), var(--neutral3);
   background-repeat: no-repeat, no-repeat;
-  background-size: 70%, 50%;
-  background-position: 600px 198px, 80px 0px;
+  background-size: 100%, 50%;
+  background-position: 300px 300px, 80px 0px;
 }
   
   .intro h1{
