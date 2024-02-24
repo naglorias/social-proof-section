@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop screenshot:![](./images/desktop-scrn-version.jpeg)
-- Mobile screenshot:![](./images/mobile-scrn-version.jpeg)
+- Desktop screenshot:![desktop version](images/desktop-scrn-version.jpeg)
+- Mobile screenshot:![mobile version](images/mobile-scrn-version.jpeg)
 
 
 
